@@ -24,7 +24,7 @@ function App() {
             render={() => (
               <React.Fragment>
                 <AddPostForm />
-                <PostsList />
+                <PostsList />  
               </React.Fragment>
             )}
           />
